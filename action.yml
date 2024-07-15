@@ -2,8 +2,7 @@ name: Setup Rust Toolchain for GitHub CI No retry-connrefused
 description: |
   Setup specific Rust versions with caching pre-configured.
   Without --retry-connrefused when lower curl version.
-  It provides problem matchers for cargo and rustfmt issues.
-
+  
 branding:
   icon: "play"
   color: "gray-dark"
